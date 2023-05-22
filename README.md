@@ -1,2 +1,2 @@
 # TwinRavensPlusModpack
-Valheim privates server modpack
+Valheim private server modpack
